@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
